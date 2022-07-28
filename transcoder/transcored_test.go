@@ -2,7 +2,7 @@ package transcoder
 
 import (
 	"github.com/stretchr/testify/require"
-	"github.com/xfrr/goffmpeg/models"
+	"github.com/jana19-dev/goffmpeg/models"
 	"testing"
 )
 
